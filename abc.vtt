@@ -1,0 +1,16 @@
+WEBVTT
+
+STYLE
+::cue { color: #000000;}
+
+i1
+00:00:00.000 --> 00:00:02.999 align:left
+Line 1
+
+i2
+00:00:02.999 --> 00:00:05.998 line:0 align:left
+Line 2
+
+i3
+00:00:05.998 --> 00:00:08.997 align:right line:-1
+Line 3
